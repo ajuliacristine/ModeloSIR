@@ -1,7 +1,4 @@
-# ModeloSIR
-
-Trabalho de Conclusão — Modelo SIR com Autômatos Celulares
-
+# Trabalho de Conclusão — Modelo SIR com Autômatos Celulares
 Objetivo
 
 Desenvolver um simulador do modelo SIR (Susceptível-Infectado-Recuperado) usando Autômatos Celulares em Java, aplicando as regras de transição probabilísticas apresentadas no artigo de referência. O objetivo é compreender a dinâmica de propagação de doenças infecciosas e aplicar conceitos de programação orientada a objetos, simulação e visualização de dados.
